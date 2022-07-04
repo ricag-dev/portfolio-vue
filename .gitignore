@@ -104,3 +104,8 @@ dist
 .tern-port
 
 #assets portfolio
+
+.yarn
+.yarnr
+.yarnrc.yml
+yarn.lock
